@@ -4,7 +4,7 @@
 
 ## Fork Features
 
-Plugin version was adopted to the latest (at the moment) Scala 2.10.3 version and [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff) 1.3.6. Geneerated sources path was adopted to best IDEA (and gen-idea sbt plugin) compatibility.
+Plugin version was adopted to the latest (at the moment) Scala 2.10.3 version and [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff) 1.3.6. Generated sources path was adopted to best IDEA (and gen-idea sbt plugin) compatibility.
 
 ## Usage
 
