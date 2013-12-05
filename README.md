@@ -2,11 +2,15 @@
 
 [SBT](http://github.com/harrah/xsbt) plugin to generate scala case class from [Google Protocol Buffers](https://developers.google.com/protocol-buffers/) using [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff).
 
+## Fork Features
+
+Plugin version was adopted to the latest (at the moment) Scala 2.10.3 version and [ScalaBuff](https://github.com/SandroGrzicic/ScalaBuff) 1.3.6. Geneerated sources path was adopted to best IDEA (and gen-idea sbt plugin) compatibility.
+
 ## Usage
 
 Adding the plugin:
 
-    addSbtPlugin("com.github.sbt" %% "sbt-scalabuff" % "0.2")
+    addSbtPlugin("com.github.sbt" %% "sbt-scalabuff" % "0.3-SNAPSHOT")
 
 Enable the plugin in your build:
 
